@@ -2,7 +2,7 @@
 
 # 👀 What am i?
 🏫 Undergraduate Student of Information System @[Brawijaya_University]<br>
-🎨 Frontend Web Developer (JavaScript)<br>
+🎨 Frontend Web Developer (Next.js)<br>
 📱 Mobile Developer (Flutter)
 <br><br>
 👯 I’m open to collaborate on Mobile App Project<br>🌱 I’m currently learning React.js
